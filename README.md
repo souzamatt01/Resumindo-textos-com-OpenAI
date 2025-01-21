@@ -1,0 +1,1 @@
+# Resumindo-textos-com-OpenAI
